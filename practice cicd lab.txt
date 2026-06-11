@@ -1,1 +1,1 @@
-AWS Cloud DevOps - CICD Git GitHub Jenkins
+cicd practical
